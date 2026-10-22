@@ -1,0 +1,6 @@
+{
+  "name": "OldiOS Manager",
+  "description": "Plateforme de gestion, diagnostic de compatibilité et déploiement d’applications pour anciens appareils iOS (iPhone 4 à iPhone 8).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
